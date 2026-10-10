@@ -3,7 +3,7 @@ const EN={
 'AgroLeak | Protección agrícola inteligente':'AgroLeak | Smart agricultural protection',
 'AgroLeak monitorea caudal, evidencia visual y actuación segura para reducir pérdidas por fugas y señales tempranas de plaga.':'AgroLeak monitors flow, visual evidence and safe actuation to reduce losses from leaks and early pest signals.',
 'Logo AgroLeak':'AgroLeak logo','Abrir menú':'Open menu',
-'Solución':'Solution','Cómo funciona':'How it works','En campo':'In the field','Precios':'Pricing','Seguridad':'Security','Solicitar demo':'Request demo',
+'Solución':'Solution','Cómo funciona':'How it works','En campo':'In the field','Precios':'Pricing','Seguridad':'Security','Solicitar demo':'Request demo','Comenzar':'Get started',
 'IoT agrícola · monitoreo local · control humano':'Agricultural IoT · local monitoring · human control',
 'Protege tu agua.':'Protect your water.','Cuida tu cultivo.':'Care for your crop.',
 'AgroLeak conecta sensores de caudal, evidencia visual y una válvula con retroalimentación para detectar anomalías y responder antes de que una fuga o una señal de plaga se conviertan en una pérdida mayor.':'AgroLeak connects flow sensors, visual evidence and a valve with feedback to detect anomalies and respond before a leak or a pest signal turns into a bigger loss.',
